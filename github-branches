@@ -1,0 +1,4 @@
+$ git branch -vv
+* bug-fix-revert 6c1ad2b Changed readme.md year from 2023 to 2022
+  bug-fix-typo   b22533f Changed README.md year
+  main           6c1ad2b [origin/main] Changed readme.md year from 2022 to 2023
